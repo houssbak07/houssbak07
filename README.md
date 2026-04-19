@@ -15,7 +15,3 @@
 - SaaS billing system
 - E-commerce backend API
 - Admin dashboard Vue.js
-
-## 📫 Contact
-Email: xxx
-LinkedIn: xxx
