@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Houssem
 
-<!--
-**houssbak07/houssbak07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (Laravel / Vue.js / Node.js)  
+🚀 Building SaaS & scalable systems  
+🌍 Based in Tunisia  
 
-Here are some ideas to get you started:
+## 🧠 Tech Stack
+- Laravel, PHP
+- Vue.js, Nuxt
+- Node.js, Express
+- MySQL, PostgreSQL
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- SaaS billing system
+- E-commerce backend API
+- Admin dashboard Vue.js
+
+## 📫 Contact
+Email: xxx
+LinkedIn: xxx
